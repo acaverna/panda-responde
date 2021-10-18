@@ -8,7 +8,7 @@ body {
 
 main {
     width: 600px;
-    height: 400px;
+    height: 40vh;
     padding: 100px;
     margin: 100px auto;
     border-radius: 10px;
@@ -24,6 +24,16 @@ img {
     border-radius: 5px;
     margin: 50px;
     border: 1px solid #29272a;
+}
+
+button {
+    color: #fafafa;
+    background-color: #4c3a69;
+    padding: 5px 20px;
+    margin: 10px 5px;
+    border-radius: 5px;
+    line-height: 40px;
+    border: none;
 }
 
 .resposta {
