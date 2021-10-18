@@ -22,5 +22,16 @@ h1 {
 
 img {
     border-radius: 5px;
+    margin: 50px;
     border: 1px solid #29272a;
+}
+
+.resposta {
+    border-radius:5px;
+    padding: 25px;
+    border: 1px solid #29272a;
+}
+
+.main__subtitle {
+    margin-top: 50px;
 }
