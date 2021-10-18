@@ -19,3 +19,8 @@ h1 {
     font-family: 'Amatic SC',cursive;
     text-transform: uppercase;
 }
+
+img {
+    border-radius: 5px;
+    border: 1px solid #29272a;
+}
