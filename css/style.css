@@ -1,0 +1,21 @@
+body {
+    font-size: 18px;
+    line-height: 24px;
+    background-color: #29272a;
+    text-align: center;
+    font-family: 'Montserrat',sans-serif;
+}
+
+main {
+    width: 600px;
+    height: 400px;
+    padding: 100px;
+    margin: 100px auto;
+    border-radius: 10px;
+    background-color: #fafafa;
+}
+
+h1 {
+    font-family: 'Amatic SC',cursive;
+    text-transform: uppercase;
+}
