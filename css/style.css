@@ -37,11 +37,13 @@ button {
 }
 
 .resposta {
+    color:#b060db;
     border-radius:5px;
     padding: 25px;
     border: 1px solid #29272a;
 }
 
 .main__subtitle {
+    color:#fff;
     margin-top: 50px;
 }
