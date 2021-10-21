@@ -12,8 +12,11 @@
     <main class="main">
         <h1 class="main__title">Panda Responde...</h1>
         <img src="panda.png" alt="desenho de uma panda danadinho"><br>
-        <label for="pergunta">Digite a sua pergunta:</label><br>
-        <input type="text" id="pergunta" name="pergunta"><br>
+        
+        <section class="pergunta">
+            <label for="pergunta">Digite a sua pergunta:</label><br>
+            <input type="text" id="pergunta" name="pergunta" required><br>
+        </section>
         <button type="submit" onclick="getAnswer()">Perguntar</button>
         <h2 class="main__subtitle">Resposta:</h2>
         <section class="resposta">
