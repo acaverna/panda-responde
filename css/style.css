@@ -19,9 +19,9 @@ body {
 
 main {
     background: white;
-	width: 60vh;
+	width:35vw;
 	height: 60vh;
-	min-width: 450px;
+	min-width: 400px;
 	min-height: 500px;
 	padding: 2rem;
 	box-shadow: 5px 5px 15px, rgba(0, 0, 0, 0.2);
@@ -31,7 +31,7 @@ main {
 main h1{
     text-transform: uppercase;
 	font-weight: 800;
-	margin-bottom: 2rem;	
+	margin-bottom: 1rem;	
 }
 
 main h2{
@@ -59,7 +59,7 @@ img {
     border: 1px solid #29272a;
     margin-top: 20px;
 	padding: 5px;
-	max-width: inherit;
+	max-width: 300px;
 }  
 
 button {
