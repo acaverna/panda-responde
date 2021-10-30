@@ -22,6 +22,9 @@ function getAnswer() {
       'não acredito nisso.',
       'nem que o panda urre.',
       'em breve.',
+      'a resposta está na sua pergunta.',
+      '42',
+      'essa é muito fácil, pergunta outra...'
     ];
 
     const answersCount = answers.length;
